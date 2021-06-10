@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <user>freddy</user>
+  <password>longNails</password>
+  <books>
+    <book author="Steinbeck" tittle="Cannery Row"/>
+    <book author="Faulker" tittle="Soldier's Pay"/>
+    <book author="Steinbeck" tittle="East of Eden"/>
+  </books>
+</config>
